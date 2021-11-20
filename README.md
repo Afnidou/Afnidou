@@ -1,4 +1,4 @@
-# <samp>Mbarka Afnidou </samp><img src="AfnidouMbarka/assets/afnidou.gif" width="30px">
+# <samp>Mbarka Afnidou </samp><img src="https://github.com/Afnidou/AfnidouMbarka/blob/main/assets/afnidou.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/m-barka-afnidou/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](hananfd172@gmail.com)
 

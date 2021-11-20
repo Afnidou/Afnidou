@@ -1,9 +1,6 @@
-# <samp>Mbarka Afnidou</samp><img src="AfnidouMbarka/assets/afnidou.gif" width="30px">
+# <samp>Mbarka Afnidou </samp><img src="AfnidouMbarka/assets/afnidou.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/m-barka-afnidou/)
-
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](hananfd172@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/m-barka-afnidou/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](hananfd172@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="AfnidouMbark/assets/earth.gif" width="22px">
 
@@ -15,7 +12,7 @@
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-[![Afnidou's github stats](https://github-readme-stats.vercel.app/api?username=Afnidou&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Afnidou's github stats](https://github-readme-stats.vercel.app/api?username=Afnidou&count_private=true&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnidou)](https://github.com/anuraghazra/github-readme-stats)

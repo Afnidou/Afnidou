@@ -6,7 +6,7 @@
 
 
 
-<samp>I'm Mbarka Afnidou ,currently I'm studying GIS/Software engineering at Hassania School of Public Works.Passionate about solving problems with technology and creating different solutions.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"></samp>
+<samp>I'm Mbarka Afnidou ,currently I'm studying GIS / Software engineering at Hassania School of Public Works.Passionate about solving problems with technology and creating different solutions.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"></samp>
 <br>
 
 
